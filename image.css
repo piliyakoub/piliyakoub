@@ -1,0 +1,15 @@
+img  {
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+span {
+    float: left;
+    width: 0.9em;
+    font-size: 400%;
+    font-family: algerian, courier;
+    line-height: 80%;
+  }
+  body {
+    background-color: green;
+  }
